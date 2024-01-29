@@ -30,10 +30,9 @@ To run the project locally, follow these steps:
 
 Visit [localhost:3000](http://localhost:3000) in your browser to view the application.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
-
 ## Credits
 
 Thanks to Chai Aur Code React series. 
+
+## Output 
+<img src="currency-converter.png" alt="Project Image" width="100%" height="100%">
