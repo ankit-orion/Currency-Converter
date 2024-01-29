@@ -1,8 +1,39 @@
-# React + Vite
+# Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a currency converter web application built with Vite, React, and styled using Tailwind CSS. It provides a user-friendly interface for converting currency values based on real-time exchange rates. The application allows users to input the amount, select the source currency, choose the target currency, and instantly view the converted amount.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Real-time Exchange Rates:** The currency conversion rates are fetched in real-time, providing accurate and up-to-date information for conversions.
+
+- **User-Friendly Interface:** The intuitive interface makes it easy for users to input values, select currencies, and perform conversions effortlessly.
+
+- **Swap Functionality:** Users can quickly swap the source and target currencies to streamline the conversion process.
+
+## Technologies Used
+
+- **Vite:** The project utilizes Vite as the build tool, offering fast and efficient development with features like hot module replacement.
+
+- **React:** The application is built with React, a popular JavaScript library for building user interfaces.
+
+- **Tailwind CSS:** Styling is done using Tailwind CSS, a utility-first CSS framework, allowing for rapid and consistent styling of components.
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone [repository_url]`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+Visit [localhost:3000](http://localhost:3000) in your browser to view the application.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+
+## Credits
+
+Thanks to Chai Aur Code React series. 
